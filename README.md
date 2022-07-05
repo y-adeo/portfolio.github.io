@@ -1,2 +1,2 @@
-# portfolio
-Esse é o meu portfólio, nele estão os meus principais projetos.  
+# Portfólio
+Esse é o meu portfólio, criado com HTML e CSS.  
